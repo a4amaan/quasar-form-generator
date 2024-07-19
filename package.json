@@ -3,7 +3,7 @@
   "version": "1.0.2",
   "description": "A schema-based form generator for Quasar framework",
   "main": "index.js",
-  "author": "M Burhan Khan",
+  "author": "Amaan Khan",
   "license": "MIT",
   "scripts": {
     "test": "echo \"No test specified\" && exit 0",

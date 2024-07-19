@@ -234,5 +234,10 @@ To create a schema-based form generator component for the Quasar Framework, you 
   };
   </script>
   ```
+## Users
+
+- [Barqiat](https://barqiat.com)
+- [Kitabcha](https://kitabcha.com)
+- [KhanSays](https://khansays.com)
 
 This is a basic example to get you started. Depending on your requirements, you may need to extend and customize the component further.
