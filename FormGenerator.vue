@@ -1,9 +1,15 @@
 <template>
-  <q-btn type="submit" label="Submit" />
+  <q-btn :label="text" type="submit" />
 </template>
 
 <script>
 export default {
-  name: 'FormGenerator'
+  name: 'FormGenerator',
+  props: {
+    text: {
+      type: String,
+      required: true
+    }
+  }
 };
 </script>
