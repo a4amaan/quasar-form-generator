@@ -5,6 +5,11 @@
   "main": "index.js",
   "author": "Amaan Khan",
   "license": "MIT",
+  "homepage": "https://github.com/a4amaan/quasar-form-generator/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a4amaan/quasar-form-generator.git"
+  },
   "scripts": {
     "test": "echo \"No test specified\" && exit 0",
     "dev": "quasar dev",
