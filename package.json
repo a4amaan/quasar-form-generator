@@ -15,6 +15,15 @@
     "dev": "quasar dev",
     "build": "quasar build"
   },
+  "keywords": [
+    "vue",
+    "vuejs",
+    "quasar",
+    "form",
+    "generator",
+    "schema",
+    "json"
+  ],
   "dependencies": {
     "quasar": "^2.0.0",
     "vue": "^3.0.0",
