@@ -242,5 +242,6 @@ This note will inform users about ongoing development and potential improvements
 - [Barqiat](https://barqiat.com)
 - [Kitabcha](https://kitabcha.com)
 - [KhanSays](https://khansays.com)
+- [Schoex](https://schoex.com)
 
 This is a basic example to get you started. Depending on your requirements, you may need to extend and customize the component further.
