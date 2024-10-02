@@ -1,6 +1,6 @@
 {
   "name": "quasar-form-generator",
-  "version": "1.0.2",
+  "version": "1.1.2",
   "description": "A schema-based form generator for Quasar framework",
   "main": "index.js",
   "author": "Amaan Khan",

@@ -239,9 +239,11 @@ This note will inform users about ongoing development and potential improvements
 
 ## Users
 
-- [Barqiat](https://barqiat.com)
-- [Kitabcha](https://kitabcha.com)
+- [Buy Electronics Online Ecommerce Site](https://barqiat.com)
+- [Business Directory in Pakistan](https://kitabcha.com)
 - [KhanSays](https://khansays.com)
-- [Schoex](https://schoex.com)
+- [School Management System Software](https://schoex.com)
+- [Web Development Company : Tecbricks](https://tecbricks.com)
+- [Buy Trending Gadgets Online in Pakistan](https://timergara.com)
 
 This is a basic example to get you started. Depending on your requirements, you may need to extend and customize the component further.
